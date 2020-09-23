@@ -2,8 +2,10 @@
 一些浅显、深刻的计算机视觉领域的问题以及答案（希望能帮助其职业发展)
 
 - What is the difference between exact matching, search and classification?
+完全匹配，搜索和分类之间有什么区别?
 
 - What is the difference between global and local descriptors? ( [Computer Vision: What is the difference between local descriptors and global descriptors?](https://www.quora.com/Computer-Vision-What-is-the-difference-between-local-descriptors-and-global-descriptors) )
+全局描述符和局部描述符有什么区别
 
 - What properties make an image / object easy to recognize?
 
@@ -11,6 +13,11 @@
 ( [What are the key advantages and key disadvantages of artificial neural nets over other machine learning algorithms?](https://www.quora.com/What-are-the-key-advantages-and-key-disadvantages-of-artificial-neural-nets-over-other-machine-learning-algorithms) )
 
 - What are the advantages and drawbacks of binary descriptors?
+
+- What is the difference between HOG and SIFT feature descriptor?
+ [HOG and SIFT](https://www.quora.com/Computer-Vision-What-is-the-difference-between-HOG-and-SIFT-feature-descriptor)
+
+- [What is the difference between HOG, SIFT and CNN?](https://www.quora.com/What-is-the-difference-between-HOG-SIFT-and-CNN)
 
 ## Harder ones IMO, more open:
 
